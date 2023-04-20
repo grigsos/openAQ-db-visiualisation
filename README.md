@@ -22,3 +22,12 @@ The zip files downloaded during runtime is located in deployment currently named
  
 
  - TABLE_NAME	(YOURTABLENAMEHERE)
+
+
+The deployment package contains
+
+- pytz
+- kaleido
+- numpy
+- pandas
+- plotly
