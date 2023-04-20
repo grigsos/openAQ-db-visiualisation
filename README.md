@@ -2,7 +2,7 @@
 
 Use python 3.9
 
-The zip files downloaded during runtime is located in folder currently named "Bucket", place it in aws bucket to make it work
+The zip files downloaded during runtime is located in deployment currently named, place it in S3 aws bucket to make it work
 
 **Assign the environment variables as per below**
 
